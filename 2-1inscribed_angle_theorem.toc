@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{円周角の定理とその逆}{3}{0}{1}
+\beamer@sectionintoc {2}{円に内接する四角形}{5}{0}{2}

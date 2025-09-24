@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{三角形の成立条件}{3}{0}{1}
+\beamer@sectionintoc {2}{辺と比の関係}{5}{0}{2}
